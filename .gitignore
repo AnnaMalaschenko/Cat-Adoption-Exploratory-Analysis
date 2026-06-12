@@ -3,6 +3,3 @@
 __pycache__/
 .ipynb_checkpoints/
 .vscode/
-data/raw/*.parquet
-data/clean/*.parquet
-
