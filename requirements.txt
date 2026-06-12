@@ -1,0 +1,9 @@
+pandas
+requests
+python-dotenv
+matplotlib
+jupyter
+pyarrow
+
+# to install these, open your terminal and type: pip install -r requirements.txt
+# only touch this file if adding a library to the project
