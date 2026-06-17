@@ -3,6 +3,8 @@
 This dataset explores cats listed for adoption from the RescueGroups Public API, and how long they took to be adopted from the time they became available. 
 The goal is to find correlations between cat characteristics and the number of days a cat spends in adoption care.
 
+API Documentation: https://api.rescuegroups.org/v5/public/docs#schema-reference
+
 **Dependent variable:** `length_of_stay` — the number of days between `availableDate` and `adoptionDate`.
 
 **Type:** Quantitative
