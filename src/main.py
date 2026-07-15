@@ -9,6 +9,4 @@ os.chdir(Path(__file__).parent.parent)
 
 cleaner.cleaner('data/raw/data_filtered.parquet', 'data/clean/clean_cats_data.parquet')
 
-#  examine clean_data
-
 df = pd.read_parquet('data/clean/clean_cats_data.parquet')
